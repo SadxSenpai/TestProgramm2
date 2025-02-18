@@ -8,4 +8,42 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="obj\Debug\net9.0-windows\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net9.0-windows\TestProgramm2.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net9.0-windows\TestProgramm2.GlobalUsings.g.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net9.0-windows\TestProgramm2.deps.json" />
+    <Content Include="bin\Debug\net9.0-windows\TestProgramm2.runtimeconfig.json" />
+    <Content Include="obj\Debug\net9.0-windows\TestProgramm2.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\net9.0-windows\TestProgramm2.designer.deps.json" />
+    <Content Include="obj\Debug\net9.0-windows\TestProgramm2.designer.runtimeconfig.json" />
+    <Content Include="obj\Debug\net9.0-windows\TestProgramm2.sourcelink.json" />
+    <Content Include="obj\project.assets.json" />
+    <Content Include="obj\TestProgramm2.csproj.nuget.dgspec.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net9.0-windows\TestProgramm2.dll" />
+    <None Include="bin\Debug\net9.0-windows\TestProgramm2.exe" />
+    <None Include="bin\Debug\net9.0-windows\TestProgramm2.pdb" />
+    <None Include="obj\Debug\net9.0-windows\apphost.exe" />
+    <None Include="obj\Debug\net9.0-windows\refint\TestProgramm2.dll" />
+    <None Include="obj\Debug\net9.0-windows\ref\TestProgramm2.dll" />
+    <None Include="obj\Debug\net9.0-windows\TestProgramm2.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net9.0-windows\TestProgramm2.assets.cache" />
+    <None Include="obj\Debug\net9.0-windows\TestProgramm2.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net9.0-windows\TestProgramm2.csproj.GenerateResource.cache" />
+    <None Include="obj\Debug\net9.0-windows\TestProgramm2.dll" />
+    <None Include="obj\Debug\net9.0-windows\TestProgramm2.Form1.resources" />
+    <None Include="obj\Debug\net9.0-windows\TestProgramm2.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net9.0-windows\TestProgramm2.genruntimeconfig.cache" />
+    <None Include="obj\Debug\net9.0-windows\TestProgramm2.pdb" />
+    <None Include="obj\project.nuget.cache" />
+    <None Include="obj\TestProgramm2.csproj.nuget.g.props" />
+    <None Include="obj\TestProgramm2.csproj.nuget.g.targets" />
+  </ItemGroup>
+
 </Project>
